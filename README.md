@@ -1,2 +1,2 @@
 # About me
-- I’m currently learning Artificial Intelligence
+- I’m learning Artificial Intelligence currently
